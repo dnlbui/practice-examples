@@ -1,0 +1,20 @@
+{
+  "name": "practice-examples",
+  "version": "1.0.0",
+  "description": "Practice using NodeJS, Socket.io, Express, and readcommand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dnlbui"
+  },
+  "author": "Daniel Bui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "readcommand": "^0.4.0",
+    "socket.io": "^4.6.1"
+  }
+}
